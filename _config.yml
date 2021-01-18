@@ -15,18 +15,16 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
+  title: Sumin Kim
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
-  style: black
+  style: blue
   showNav: false
   showPicker: true
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    linkedIn: https://www.linkedin.com/in/su-min-kim-3397a4201
     rss: rss
  
 
